@@ -1,165 +1,55 @@
-# Hi, I'm Akhil 👋
+## Hi, I'm Akhil 👋
+AI Engineer | Electronics → Artificial Intelligence
 
 AI-focused engineer with a strong foundation in Electronics and a Master’s in Artificial Intelligence.  
 I enjoy building practical systems where machine learning meets real-world constraints.
 
 I focus on clarity, correctness, and end-to-end implementation rather than just model accuracy.
 
----
-
-## 🔍 Areas I Work In
-- Machine Learning and Deep Learning
-- Computer Vision and Object Detection
-- Signal Processing and Biosignal Visualization
-- Backend APIs for AI systems
-- Dockerized deployment and NGINX basics
+🧠 Applied Machine Learning  
+👁️ Computer Vision & Signal Processing  
+⚙️ AI Systems, APIs & Deployment  
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-- Python, SQL, Bash, C C++, Java
-
-**AI / ML**
-- NumPy, Pandas
-- Scikit-learn
-- TensorFlow, PyTorch
-- OpenCV, Matplotlib, SciPy
-
-**Frameworks & Tools**
-- FastAPI, Flask
-- Docker, GitHub Actions
-- NGINX (OSS)
-- Jupyter, Anaconda
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB, SQLite
-
-**Other**
-- Arduino (sensor and serial integration)
-- Power BI
+### 🧩 Core Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
-
-### 🔹 ChronoGuard
-AI-driven campus discipline and time-management system  
-Focus on behavior monitoring, logging, and intelligent alerts
-
-### 🔹 Knife Detection System
-Custom object detection model trained on a self-curated dataset (5000+ images)  
-Built with emphasis on dataset quality and robustness
-
-### 🔹 Biosignal Generator (ECG)
-Python-based GUI for generating and visualizing ECG waveforms  
-Supports real-time plotting, export, and Arduino serial transmission
-
-### 🔹 Docker & NGINX Mini Projects
-- Custom NGINX images
-- Reverse proxy and load balancing
-- HTTPS with self-signed TLS certificates
+### 🚀 AI Projects
+- **ChronoGuard** – AI-driven campus discipline & time intelligence system  
+- **Knife Detection** – CV model trained on a curated 5k+ image dataset  
+- **ECG Signal Generator** – Real-time biosignal simulation + Arduino output  
+- **Docker & NGINX Labs** – Reverse proxy, TLS, load balancing
 
 ---
 
-## 🏆 Highlights
-- NASA Space Apps Challenge – Global Nominee
-- Young Innovators Programme (YIP) – State Level Winner
-- Published ML research paper on employee performance prediction
-- Resource panel member for Machine Learning workshops
+### 🏆 Recognition
+- NASA Space Apps Challenge – Global Nominee  
+- Young Innovators Programme – District Winner  
+- Published ML Research (International Conference)
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilps04&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilps04&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-- Email: akhilpshaji001@gmail.com
-- LinkedIn: # Hi, I'm Akhil 👋
-
-AI-focused engineer with a strong foundation in Electronics and a Master’s in Artificial Intelligence.  
-I enjoy building practical systems where machine learning meets real-world constraints.
-
-I focus on clarity, correctness, and end-to-end implementation rather than just model accuracy.
+### 📊 GitHub Activity
+![Stats](https://github-readme-stats.vercel.app/api?username=Akhilps04&show_icons=true&theme=tokyonight&hide_title=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilps04&layout=compact&theme=tokyonight)
 
 ---
 
-## 🔍 Areas I Work In
-- Machine Learning and Deep Learning
-- Computer Vision and Object Detection
-- Signal Processing and Biosignal Visualization
-- Backend APIs for AI systems
-- Dockerized deployment and NGINX basics
+### 🔗 Reach Me
+📧 akhilps04@gmail.com  
+🔗 LinkedIn wwww.linkedin.com/in/akhil-p-216829235
 
----
 
-## 🛠 Tech Stack
-
-**Languages**
-- Python, SQL, Bash
-
-**AI / ML**
-- NumPy, Pandas
-- Scikit-learn
-- TensorFlow, PyTorch
-- OpenCV, Matplotlib, SciPy
-
-**Frameworks & Tools**
-- FastAPI, Flask
-- Docker, GitHub Actions
-- NGINX (OSS)
-- Jupyter, Anaconda
-
-**Databases**
-- MySQL, PostgreSQL, MongoDB, SQLite
-
-**Other**
-- Arduino (sensor and serial integration)
-- Power BI
-
----
-
-## 📌 Featured Projects
-
-### 🔹 ChronoGuard
-AI-driven campus discipline and time-management system  
-Focus on behavior monitoring, logging, and intelligent alerts
-
-### 🔹 Knife Detection System
-Custom object detection model trained on a self-curated dataset (5000+ images)  
-Built with emphasis on dataset quality and robustness
-
-### 🔹 Biosignal Generator (ECG)
-Python-based GUI for generating and visualizing ECG waveforms  
-Supports real-time plotting, export, and Arduino serial transmission
-
-### 🔹 Docker & NGINX Mini Projects
-- Custom NGINX images
-- Reverse proxy and load balancing
-- HTTPS with self-signed TLS certificates
-
----
-
-## 🏆 Highlights
-- NASA Space Apps Challenge – Global Nominee
-- Young Innovators Programme (YIP) – District Level Winner
-- Published ML research paper on employee performance prediction
-- Resource panel member for Machine Learning workshops
-
----
-
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akhilps04&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilps04&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Contact
-- Email: yourmail@gmail.com
-- LinkedIn: www.linkedin.com/in/akhil-p-216829235
