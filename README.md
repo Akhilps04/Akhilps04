@@ -37,7 +37,7 @@ I focus on clarity, correctness, and end-to-end implementation rather than just 
 
 ### 🏆 Recognition
 - NASA Space Apps Challenge – Global Nominee  
-- Young Innovators Programme – District Winner  
+- Young Innovators Programme – State Winner  
 - Published ML Research (International Conference)
 
 ---
@@ -50,6 +50,7 @@ I focus on clarity, correctness, and end-to-end implementation rather than just 
 
 ### 🔗 Reach Me
 📧 akhilps04@gmail.com  
-🔗 LinkedIn wwww.linkedin.com/in/akhil-p-216829235
+🔗 LinkedIn https://www.linkedin.com/in/akhil-p-216829235/
+
 
 
