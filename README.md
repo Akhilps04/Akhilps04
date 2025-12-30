@@ -60,17 +60,18 @@ I focus on clarity, correctness, and end-to-end implementation rather than just 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akhilps04&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akhilps04&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Akhilps04&show_icons=true&theme=tokyonight&border_radius=10" height="160">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Akhilps04&layout=compact&theme=tokyonight&border_radius=10" height="160">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Akhilps04&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Akhilps04&theme=tokyonight&border_radius=10" height="180">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilps04&theme=tokyonight&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilps04&theme=react-dark&area=true&hide_border=true" width="90%">
 </p>
+>
 
 
 ---
