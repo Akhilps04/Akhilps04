@@ -58,9 +58,17 @@ I focus on clarity, correctness, and end-to-end implementation rather than just 
 ---
 
 ### 📊 GitHub Activity
-<img src="https://github-readme-stats-godkingjay.vercel.app/api?username=Akhilps04&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=Akhilps04&layout=compact&theme=tokyonight" height="160px"/>
+## GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akhilps04&show_icons=true&theme=tokyonight" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilps04&layout=compact&theme=tokyonight" height="150px"/>
+  <img src="https://streak-stats.demolab.com?user=Akhilps04&theme=tokyonight" height="150px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhilps04&theme=tokyonight"/>
+</p>
 
 ---
 
